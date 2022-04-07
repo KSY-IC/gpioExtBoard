@@ -1,4 +1,4 @@
-# KSY GPIOextension board for Raspberry Pi 400
+# KSY GPIO extension board for Raspberry Pi 400
 
 RaspberryPi 400 GPIO拡張ボード   
 GPIO extension board for Raspberry Pi 400
@@ -51,9 +51,10 @@ GPIO extension board for Raspberry Pi 400
 ### 3.3V電源出力 (J1)
   3.3V 700mA出力の3端子レギュレータ出力です。
 
-##  回路図
+###  回路図
 
-![回路図](./schematic/schhematic.png)
+![回路図](./schematic/schhematic.png)    
+
 [回路図 pdf](./schematic/pi400gpio_schematic.pdf)
 
 ---
