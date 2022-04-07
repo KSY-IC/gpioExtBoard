@@ -26,7 +26,7 @@ GPIO extension board for Raspberry Pi 400
 
 
 #### 緑色LED (LED2)
-  GPIO13に接続されています。ディップスイッチで切り離しできます。　　　
+  GPIO13に接続されています。ディップスイッチで切り離しできます。
 
 
 ### タクトスイッチ (SW1)
@@ -51,6 +51,10 @@ GPIO extension board for Raspberry Pi 400
 ### 3.3V電源出力 (J1)
   3.3V 700mA出力の3端子レギュレータ出力です。
 
+##  回路図
+
+![回路図](./schematic/schhematic.png)
+[回路図 pdf](./schematic/pi400gpio_schematic.pdf)
 
 ---
 
@@ -65,14 +69,14 @@ Python3.7 で作成した評価用のソフトです。
 
 RPi.GPIO　　　
 
-time
+time    
 
 ---
 
 ## ライセンス
 このライブラリはMITライセンスで配布します。 MITライセンスの詳細はLICENSE.txtを参照ください。
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](./LICENSE)
 
 ## Author
 ![KSY Logo](./images/logo_color.png "KSY Logo")  
