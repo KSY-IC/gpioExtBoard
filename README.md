@@ -68,11 +68,12 @@ GPIO extension board for Raspberry Pi 400
 ホールド電流 6V 1.1A、トリップ電流2.2Aです。   
 ヒューズが動作した時は、電源を切り、ヒューズ動作の原因を取り除いてから電源を入れてください。
 
+[BOURNS MF-NSMF110データシート](https://www.bourns.com/data/global/pdfs/MF-NSMF.pdf)
+   
+
  ### ユニバーサルスペース   
  両面ユニバーサルパターンです。簡単な自作回路などを作ることができます。
 
-
-[BOURNS MF-NSMF110データシート](https://www.bourns.com/data/global/pdfs/MF-NSMF.pdf)
 
 ---
 
