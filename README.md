@@ -7,7 +7,7 @@ GPIO extension board for Raspberry Pi 400
 
 ## 概要
 
-  Raspberry Pi 4000向けのGPIO拡張ボードです。
+  Raspberry Pi 400向けのGPIO拡張ボードです。
   Raspberry Pi向けの各種HATを接続できます。   
   またGPIO40ピンもピンヘッダで取り出してあり、HATを利用しつつ他のGPIOも利用することができます。   
   I2C、UART、SPI等の各種センサ等を接続する為のソケットも実装されています。
@@ -88,7 +88,7 @@ GPIO extension board for Raspberry Pi 400
 ##  テストソフトウェア (```gpio_extension.py```)
 
 
-Python3.7 で作成した評価用のソフトです。
+Python3.7 で作成した評、動作確認用のソフトウェアです。
 
 赤色LEDと緑色LEDが交互点滅します。タクトスイッチを押すと赤色緑色が同時点灯します。
 
